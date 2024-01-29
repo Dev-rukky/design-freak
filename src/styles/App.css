@@ -7,6 +7,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 36px 64px;
+    z-index: 999;
 }
 
 .nav-link {
@@ -68,4 +69,30 @@ nav {
     border-radius: 100%;
     background-color: #F24E1E;
     color: #fff;
+}
+
+.menu {
+    display: none;
+} 
+
+@media (max-width: 768px) {
+
+    .nav-link {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .nav-link a {
+        padding: 10px;
+        margin: 0;
+    }
+
+    .nav-cta {
+        margin-top: 20px;
+    }
+
+    .open {
+        display: block;
+    }
 }
