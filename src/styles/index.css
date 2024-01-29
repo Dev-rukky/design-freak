@@ -1,14 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 @font-face {
-    font-family: 'ClashDisplay';
+    font-family: 'ClashDisplay-Variable';
     src: url(../assets/fonts/ClashDisplay-Variable.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ClashDisplay-Extralight';
     src: url(../assets/fonts/ClashDisplay-Extralight.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ClashDisplay-Light';
     src: url(../assets/fonts/ClashDisplay-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ClashDisplay-Regular';
     src: url(../assets/fonts/ClashDisplay-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ClashDisplay-Semibold';
     src: url(../assets/fonts/ClashDisplay-Semibold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ClashDisplay-Bold';
     src: url(../assets/fonts/ClashDisplay-Bold.ttf) format('truetype');
-
 }
 
 * {
