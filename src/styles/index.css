@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: 'ClashDisplay';
-    src: url(./assets/fonts/ClashDisplay-Variable.ttf) format('truetype');
-    src: url(./assets/fonts/ClashDisplay-Extralight.ttf) format('truetype');
-    src: url(./assets/fonts/ClashDisplay-Light.ttf) format('truetype');
-    src: url(./assets/fonts/ClashDisplay-Regular.ttf) format('truetype');
-    src: url(./assets/fonts/ClashDisplay-Semibold.ttf) format('truetype');
-    src: url(./assets/fonts/ClashDisplay-Bold.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Variable.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Extralight.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Light.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Regular.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Semibold.ttf) format('truetype');
+    src: url(../assets/fonts/ClashDisplay-Bold.ttf) format('truetype');
 
 }
 
